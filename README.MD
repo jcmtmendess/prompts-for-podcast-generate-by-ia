@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/PodcastCover"
+    src="./assets/Dark Blue Black 3D Mixed Media Tech & business Podcast Cover (1).png"
     width="300"
 />
 </p>
